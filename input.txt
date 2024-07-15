@@ -1,0 +1,11 @@
+Team_India 3
+Batsman Player1 25
+Bowler Player2 28
+AllRounder Player3 30
+Team_Australia 3
+Batsman Player4 22
+Bowler Player5 27
+AllRounder Player6 31
+Test
+ODI
+T20
